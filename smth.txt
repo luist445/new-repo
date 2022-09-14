@@ -1,0 +1,70 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@DLi7077 
+DLi7077
+/
+new-repo
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+DLi7077/new-repo
+ 1 branch
+ 0 tags
+Latest commit
+@DLi7077
+DLi7077 Initial commit
+4da4d9c
+5 minutes ago
+Git stats
+ 1 commit
+Files
+Type
+Name
+Latest commit message
+Commit time
+.gitignore
+Initial commit
+5 minutes ago
+Help people interested in this repository understand your project by adding a README.
+About
+No description, website, or topics provided.
+Topics
+Stars
+ 0 stars
+Watchers
+ 1 watching
+Forks
+ 0 forks
+Releases
+No releases published
+Create a new release
+Packages
+No packages published
+Publish your first package
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+You have no unread notifications
