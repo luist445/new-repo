@@ -23,8 +23,11 @@ shoow expected output
 
 
 What works or what doesn't
-if everything works? everything works
-: these parts didnt work:
+if everything works
+- everything works
+
+otherwise
+- these parts didnt work:
 
 <ul>
 <li>part 1</li>
@@ -33,7 +36,7 @@ if everything works? everything works
 <li>>> overload</li>
 </ul>
 
-what you struggled with
+what you struggled with: 
 if you had more time, what would you improve
 
 
